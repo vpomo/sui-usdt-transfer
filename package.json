@@ -1,0 +1,17 @@
+{
+  "name": "send-coin",
+  "version": "1.0.1",
+  "description": "",
+  "author": "",
+  "private": true,
+  "type": "module",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "node send-coin.js"
+  },
+  "dependencies": {
+    "@mysten/sui.js": "^0.52.0",
+    "@scallop-io/sui-kit": "^0.45.0",
+    "dotenv": "^16.3.1"
+  }
+}
